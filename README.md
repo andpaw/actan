@@ -14,7 +14,7 @@ to obtain cuantitative measure. The main idea consist fo computing
 performance for induction and maintenace phase separtly since the control 
 objecite are differnt. 
 
-Orignal paper: A. Pawlowski, M. Schiavo, N. Latronico, M. Paltenghi, 
+**Orignal paper**: A. Pawlowski, M. Schiavo, N. Latronico, M. Paltenghi, 
 A. Visioli. “Linear MPC for anesthesia process with external predictor”.
 Computers and Chemical Engineering, 161.107747, pp. 1–13, 2022.
 
@@ -23,11 +23,13 @@ Original paper DOI: https://doi.org/10.1016/j.compchemeng.2022.107747
 Open Access UniBS repository: https://hdl.handle.net/11379/554416
 
 
-MatLab version  
+MatLab version:
+
 /Matlab/
        /performance_indexes.m
 
-Python version
+Python version:
+
 /Python/
        /performance_indexes.py
 
