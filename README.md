@@ -4,17 +4,10 @@ ACTAN Project webpage: https://actan.unibs.it
 
 Contact: andrzej.pawlowski[at]unibs.it
 
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@        Acknowledge         @@@@@@@      
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@                                        @
-@ The published data asa well as author  @ 
-@ have been supported by EU--H2020 funds @
-@ under MSCA Individual Fellowship -     @ 
-@ ACTAN project ID: 837912.              @
-@                                        @
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ 
+**  Acknowledge **
 
+__The published data asa well as author have been supported by EU--H2020 funds__
+__ under MSCA Individual Fellowship - ACTAN project ID: 837912. __
 
 The software provides the perfomance evalution methods for anaeshtsia 
 control system. It can be compared with several publication on this subject
