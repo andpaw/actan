@@ -34,9 +34,6 @@ BIS_NADIRp = np.zeros(13)
 TTn = np.zeros(13)
 BIS_NADIRn = np.zeros(13)
 IAE = np.zeros(13)
-# sim_data = loadmat("data_gpc_dist_profile_2.mat")
-# dir_path = __file__
-# print(dir_path)
 
 # load simualtion data
 mat_file = "data_gpc_dist_profile_2.mat"
